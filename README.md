@@ -19,6 +19,6 @@
  3. 在RecyclerView右侧加入滑动条
  4. 对搜索框边缘进行圆角过渡处理
  
- ![Image text](C:\Users\nuaa_\Desktop\Homeworks\chapter2\chapter2\result1.png)
+ ![Image text](chapter2/chapter2/result1.png)
  
- ![Image text](C:\Users\nuaa_\Desktop\Homeworks\chapter2\chapter2\result2.png)
+ ![Image text](chapter2/chapter2/result2.png)
