@@ -22,3 +22,21 @@
  ![Image text](chapter2/chapter2/result1.png)
  
  ![Image text](chapter2/chapter2/result2.png)
+
+**chapter3第三次作业 (2020.11.22)：**
+  
+ + 作业任务：
+ 
+      设计动画实现scale、fade变化
+    
+ + （由于课业较多，暂时只做了ex2）
+ 
+ **chapter4第四次作业 (2020.11.22)：**
+  
+ + 作业任务：
+ 
+      设计一个钟表功能，需绘制表盘、控制时钟走时。
+
+ 
+ 
+
